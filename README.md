@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://66d31252fd705210cc4283f8--dainty-quokka-5a61a4.netlify.app/](https://66d31252fd705210cc4283f8--dainty-quokka-5a61a4.netlify.app/)
 
-- 💬 Ask me about **react , JavaScript and MySQL**
+- 💬 Ask me about **React , UI5 , JavaScript and MySQL**
 
 - 📫 How to reach me **keyurchaudhari300@gmail.com**
 
