@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NexJs**
 
-- 👨‍💻 All of my projects are available at [https://66d31252fd705210cc4283f8--dainty-quokka-5a61a4.netlify.app/](https://66d31252fd705210cc4283f8--dainty-quokka-5a61a4.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://spontaneous-lollipop-0a7884.netlify.app/])
 
 - 💬 Ask me about **React , UI5 , JavaScript and MySQL**
 
