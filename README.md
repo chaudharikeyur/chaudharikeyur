@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://spontaneous-lollipop-0a7884.netlify.app/])
 
-- 💬 Ask me about **React , UI5 , JavaScript and MySQL**
+- 💬 Ask me about **ReactJs , NodeJS , UI5 , JavaScript and MySQL**
 
 - 📫 How to reach me **keyurchaudhari300@gmail.com**
 
